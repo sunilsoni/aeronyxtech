@@ -1,6 +1,7 @@
 ![Hero Image](assets/images/banner.png)
 
 # Welcome to Aeronyx Technologies LLC
+
 Your partner in cutting‑edge software training and IT solutions.
 
 At Aeronyx, we combine industry expertise with hands‑on learning to deliver:

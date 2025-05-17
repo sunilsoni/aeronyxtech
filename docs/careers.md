@@ -8,6 +8,7 @@ Join our dynamic team of technologists and educators. We’re always looking for
 - **Instructional Design & Training Delivery**
 
 ### Why Work With Us?
+
 - Flexible work arrangements & remote options
 - Collaborative, inclusive culture
 - Professional development & certification support
