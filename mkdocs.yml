@@ -1,0 +1,41 @@
+site_name: Aeronyx Technologies LLC
+
+theme:
+  name: material
+  palette:
+    primary: teal
+    accent: amber
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.tabs
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.ico
+
+extra_css:
+  - theme_overrides/extra.css
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
+
+nav:
+  - Home: index.md
+  - Software Training: software-training.md
+  - IT Services: it-services.md
+  - Courses: courses.md
+  - Careers: careers.md
+  - Contact: contact.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/aeronyx-tech-61b07734b/
