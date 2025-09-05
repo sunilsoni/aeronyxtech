@@ -3,6 +3,12 @@ site_name: Aeronyx Technologies LLC
 
 theme:
   name: material
+  # Tell MkDocs to use our overrides directory
+  custom_dir: theme_overrides
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.ico
+  copyright:
+    label: ""    # empty string hides it
   palette:
     primary: teal
     accent: amber
@@ -12,8 +18,6 @@ theme:
   features:
     - navigation.instant
     - navigation.tabs
-  logo: assets/images/logo.png
-  favicon: assets/images/favicon.ico
 
 extra_css:
   - theme_overrides/extra.css
